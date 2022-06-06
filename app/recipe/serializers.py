@@ -1,5 +1,5 @@
 """
-Serializers for recipe API
+Serializers for recipe APIs.
 """
 from rest_framework import serializers
 
